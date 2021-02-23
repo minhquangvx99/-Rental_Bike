@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+    <_LastSelectedProfileId>D:\Documents\TKXDPM\TKXDPM.20201-13\FinalProject\Construction\RentalBikeApp\RentalBikeApp\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Presentation\BaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\BikeDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\CardInformationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\HomePageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\ListBikeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\RentBikeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\RentBikeInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\RentingBikeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\ReturnBikeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\StationDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\TransactionInformationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
